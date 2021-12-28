@@ -1,0 +1,4 @@
+For 0.5 decision boundary the results are the following:
+Recall :1.0
+Precision :0.45
+F1 score :0.6206896551724138
